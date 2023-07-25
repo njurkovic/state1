@@ -14,7 +14,6 @@ const App = () => {
       { id: users.length + 1, marka: marka, tip: tip, godište: godište },
     ]);
   }
-
   return (
     <div>
       <h1>dodaj vozilo:</h1>
